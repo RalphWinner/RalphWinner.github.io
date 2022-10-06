@@ -102,11 +102,14 @@ dt{
 
 h2.bigRed{
   color: red;
-  font-size: 48pt;
+  font-size: 28pt;
   width: 80;
+  bottom: 0;
+  right: 0;
   text-align: center;
   position: absolute;
 }
+
 .center {
   display: block;
   margin-left: auto;
